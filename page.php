@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./style.css">
     </head>
     <body>
-    <div class="logins">
+    <div class="feeds">
                     <!------------------- FEED 1 --------------------->
                     <div class="feed">
                         <div class="search">
@@ -19,9 +19,6 @@
                         <i class="uil uil-search"></i>
                         <input type="search" placeholder="Search messages" id="message-search">
                     </div>
-                                <div class="profile-photo">
-                                    <img src="./images/profile-13.jpg">
-                                </div>
                                 
 
 </html>
