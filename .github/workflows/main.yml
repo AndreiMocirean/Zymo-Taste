@@ -1,4 +1,4 @@
-name: Publish Website to CPanel (QA Verify)
+name: Publish Website to CPanel (MAIN)
 on:
   push:
     branches:
