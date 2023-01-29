@@ -55,6 +55,11 @@ body {
   margin: 0 auto;
 }
 
+.log {
+  width:auto !important;
+  height: inherit !important;
+}
+
 .profile-photo {
   width: 2.7rem;
   aspect-ratio: 1/1;
